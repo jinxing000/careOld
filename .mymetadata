@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dTree"
+  id="myeclipse.1439881900716"
+  context-root="/dTree"
+  j2ee-spec="5.0"
+  archive="dTree.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
